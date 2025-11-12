@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.local
+
+# VSCode
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+
+# pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# coverage
+htmlcov/
+.coverage*
